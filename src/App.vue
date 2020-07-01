@@ -15,4 +15,10 @@ export default {
 }
 </script>
 
-<style lang="less"></style>
+<style lang="less">
+#app {
+  width: 200px;
+  height: 100px;
+  background-color: olivedrab;
+}
+</style>
