@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     fex-ui for Vue
-    <FexTest />
+    <fex-test />
   </div>
 </template>
 
