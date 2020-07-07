@@ -1,29 +1,35 @@
 # fex-ui
 
-## Project setup
+## 项目安装依赖
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 从 develop 模式启动项目，热更新
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包线上项目
+
 ```
 npm run build
 ```
 
-### Run your tests
+### 构建 fex-ui 库 -> npm publish from ./lib 文件夹
+
 ```
-npm run test
+npm run lib
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
